@@ -1,7 +1,7 @@
 # test-curl-php
 test curl php
 
-```
+```php
 <?php
 // $url = 'http://api-meeyads.meeycdn.com/api/sys-function/get-list-function-by-user-id?userId=70';
 $url = "http://nghiahsgs.com";
